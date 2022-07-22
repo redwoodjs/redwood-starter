@@ -18,7 +18,6 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"redwoodjs.redwood",
 				"dbaeumer.vscode-eslint",
 				"ofhumanbondage.react-proptypes-intellisense",
 				"mgmcdermott.vscode-language-babel",
